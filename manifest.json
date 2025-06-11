@@ -1,0 +1,20 @@
+{
+  "name": "Portofolio Della Azzahra",
+  "short_name": "SiaLens",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Portofolio PWA",
+  "icons": [
+    {
+      "src": "profileku2.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "profileku2.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
